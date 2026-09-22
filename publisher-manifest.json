@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "49fbf4496adc6c826c7a6ae3",
+  "owner": "ravpnhu8u",
+  "repo": "page-249017ba981d50c2b0b90a7f",
+  "title": "VIVIAN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "249017ba981d50c2b0b90a7f",
+      "a": "VIVIAN",
+      "b": "机场官网线路发布页",
+      "entity": "VIVIAN",
+      "brand": "VIVIAN",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "182aeb7369f2f49015c848acff73bac6ccf3c2568e011a2035914bd3117ffe9c",
+      "content": {
+        "primary_entity": "VIVIAN",
+        "keyword1": "VIVIAN",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备类型选择客户端：Windows 用 Clash Verge Rev，macOS 用 ClashX Meta，Android 用 v2rayNG，iOS 用 Shadowrocket，路由器可刷 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐后，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "准备开始",
+          "AI_DESCRIPTION": "，提供多个可选套餐：基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并包含 IPLC 专线游戏加速；团队版每月 1000GB、支持 20 台设备。按年付可分别节省两个月费用，旗舰版与团队版支持更完整的流媒体解锁与优先支持。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人日常浏览，每月 100GB 流量、3 台设备同时在线，按年付 ¥150，折合每月约 ¥12.5。",
+          "AI_FAQ_ANSWER_2": "旗舰版提供 300GB 流量、5 台设备及 IPLC 专线，适合多设备用户或轻度游戏加速；团队版提供 1000GB 和 20 台设备，适合小团队共享。",
+          "AI_FAQ_ANSWER_3": "套餐均标注流量与设备上限，按年付有折扣。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，相当于节省两个月费用。",
+          "AI_FAQ_ANSWER_4": "各客户端支持情况不同：Windows 可用 Clash Verge Rev，macOS 可用 ClashX Meta，Android 可用 v2rayNG，iOS 可用 Shadowrocket。请以客户端文档说明为准。",
+          "AI_FAQ_ANSWER_5": "流量或设备需求变化时，可先评估当前套餐余量，再考虑升级至更高版本，例如从基础版升到旗舰版获得更多流量和设备数。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么样的使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_3": "套餐价格和年付优惠如何计算？",
+          "AI_FAQ_QUESTION_4": "不同设备应该选哪个客户端？",
+          "AI_FAQ_QUESTION_5": "流量或设备不够用怎么办？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量需求与订阅周期，VIVIAN 提供三档可调套餐。",
+          "AI_FEATURES_TITLE": "选套餐前可以关注这些点",
+          "AI_FEATURE_TEXT_1": "基础版满足单人日常，旗舰版覆盖多设备与游戏加速，团队版支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "各档套餐明确标注每月流量上限与同时在线设备数，按需选择。",
+          "AI_FEATURE_TEXT_3": "年付方案在月付价格基础上节省两个月费用，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "按设备数选择",
+          "AI_FEATURE_TITLE_2": "按流量需求选择",
+          "AI_FEATURE_TITLE_3": "按订阅周期选择",
+          "AI_GUIDE_INTRO": "选择服务、核对设备数量与流量、按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "VIVIAN 提供基础版、旗舰版与团队版三档套餐，分别对应不同流量与设备数量，按年付可节省两个月费用。",
+          "AI_HERO_SUBTITLE": "多档套餐，适配不同设备数",
+          "AI_HIGHLIGHT_1": "基础版 3 台设备，¥15/月",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线，5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备，1000GB 流量",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "参考套餐流量、设备数量与价格，先明确个人或团队的需求。",
+          "AI_STEP_TEXT_2": "根据常用设备的操作系统，查看对应客户端的适配要求。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅信息，完成配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "VIVIAN 套餐一览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mnrcc.cn",
+    "host": "mnrcc.cn"
+  },
+  "file_hashes": {
+    "index.html": "c47f9c3667b8cb2949729e28343c3a681da952138126d3fa4fe7bf9d1dec3cbc",
+    "sitemap.xml": "df8e4bb1666b11c7bd95e9c5580998dfa8ba24397920104fb8673e9689a746d2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a132c3b64fe8d790708c1addb6adb36f50216900cf7d679c4c984c9e65948b7f",
+    "robots.txt": "4278a829c55b27218fb813d755bc2baa1b5ef6439e823517f494d9ddae9474bc",
+    "be2836c3ef625e67cb87dde2861e6348.txt": "38ff6cc4ca5401f35d8b93b3fcf2738757ec330a599a665c3a3509dfeb098f67"
+  },
+  "revision": "6f70949cf0a451011f0e918271ed87d4b06b1061c914c36cfc125b6812880fba"
+}
